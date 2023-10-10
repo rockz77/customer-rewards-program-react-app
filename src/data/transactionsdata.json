@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "customer_name": "Kevin Daney",
+        "customer_id": "C1001",
+        "transactions": [
+            {"transaction_id": "T0001", "transaction_type": "purchase", "transaction_amount": 150, "date": "2023-06-03"},
+            {"transaction_id": "T0002", "transaction_type": "purchase", "transaction_amount": 90, "date": "2023-06-12"},
+            {"transaction_id": "T0003", "transaction_type": "purchase", "transaction_amount": 40, "date": "2023-06-20"},
+            {"transaction_id": "T0004", "transaction_type": "purchase", "transaction_amount": 220, "date": "2023-07-04"},
+            {"transaction_id": "T0005", "transaction_type": "purchase", "transaction_amount": 60, "date": "2023-07-15"},
+            {"transaction_id": "T0006", "transaction_type": "purchase", "transaction_amount": 100, "date": "2023-08-03"},
+            {"transaction_id": "T0007", "transaction_type": "purchase", "transaction_amount": 30, "date": "2023-08-12"},
+            {"transaction_id": "T0008", "transaction_type": "purchase", "transaction_amount": 180, "date": "2023-08-28"}
+        ]
+    },
+    {
+        "id": 2,
+        "customer_name": "Christina Lawrence",
+        "customer_id": "C1002",
+        "transactions": [
+            {"transaction_id": "T0010", "transaction_type": "purchase", "transaction_amount": 90, "date": "2023-06-05"},
+            {"transaction_id": "T0011", "transaction_type": "purchase", "transaction_amount": 50, "date": "2023-06-15"},
+            {"transaction_id": "T0012", "transaction_type": "purchase", "transaction_amount": 120, "date": "2023-07-02"},
+            {"transaction_id": "T0013", "transaction_type": "purchase", "transaction_amount": 30, "date": "2023-07-10"},
+            {"transaction_id": "T0014", "transaction_type": "purchase", "transaction_amount": 200, "date": "2023-07-21"},
+            {"transaction_id": "T0015", "transaction_type": "purchase", "transaction_amount": 300, "date": "2023-08-05"},
+            {"transaction_id": "T0016", "transaction_type": "purchase", "transaction_amount": 90, "date": "2023-08-19"},
+            {"transaction_id": "T0017", "transaction_type": "purchase", "transaction_amount": 170, "date": "2023-08-30"}
+        ]
+    },
+    {
+        "id": 3,
+        "customer_name": "Stephanie Anderson",
+        "customer_id": "C1003",
+        "transactions": [
+            {"transaction_id": "T0019", "transaction_type": "purchase", "transaction_amount": 120, "date": "2023-06-11"},
+            {"transaction_id": "T0020", "transaction_type": "purchase", "transaction_amount": 60, "date": "2023-06-12"},
+            {"transaction_id": "T0021", "transaction_type": "purchase", "transaction_amount": 120, "date": "2023-06-20"},
+            {"transaction_id": "T0022", "transaction_type": "purchase", "transaction_amount": 90, "date": "2023-07-02"},
+            {"transaction_id": "T0023", "transaction_type": "purchase", "transaction_amount": 210, "date": "2023-07-12"},
+            {"transaction_id": "T0024", "transaction_type": "purchase", "transaction_amount": 30, "date": "2023-08-08"},
+            {"transaction_id": "T0025", "transaction_type": "purchase", "transaction_amount": 140, "date": "2023-08-10"},
+            {"transaction_id": "T0026", "transaction_type": "purchase", "transaction_amount": 190, "date": "2023-08-24"}
+        ]
+    },
+    {
+        "id": 4,
+        "customer_name": "Wilson Manchester",
+        "customer_id": "C1004",
+        "transactions": [
+            {"transaction_id": "T0028", "transaction_type": "purchase", "transaction_amount": 20, "date": "2023-06-01"},
+            {"transaction_id": "T0029", "transaction_type": "purchase", "transaction_amount": 220, "date": "2023-06-20"},
+            {"transaction_id": "T0030", "transaction_type": "purchase", "transaction_amount": 100, "date": "2023-07-12"},
+            {"transaction_id": "T0031", "transaction_type": "purchase", "transaction_amount": 110, "date": "2023-07-14"},
+            {"transaction_id": "T0032", "transaction_type": "purchase", "transaction_amount": 70, "date": "2023-07-27"},
+            {"transaction_id": "T0033", "transaction_type": "purchase", "transaction_amount": 250, "date": "2023-08-02"},
+            {"transaction_id": "T0034", "transaction_type": "purchase", "transaction_amount": 60, "date": "2023-08-11"},
+            {"transaction_id": "T0035", "transaction_type": "purchase", "transaction_amount": 180, "date": "2023-08-15"}
+        ]
+    },
+    {
+        "id": 5,
+        "customer_name": "Vanessa Lowe",
+        "customer_id": "C1005",
+        "transactions": [
+            {"transaction_id": "T0037", "transaction_type": "purchase", "transaction_amount": 110, "date": "2023-06-07"},
+            {"transaction_id": "T0038", "transaction_type": "purchase", "transaction_amount": 200, "date": "2023-06-08"},
+            {"transaction_id": "T0039", "transaction_type": "purchase", "transaction_amount": 120, "date": "2023-07-05"},
+            {"transaction_id": "T0040", "transaction_type": "purchase", "transaction_amount": 80, "date": "2023-07-15"},
+            {"transaction_id": "T0041", "transaction_type": "purchase", "transaction_amount": 120, "date": "2023-07-25"},
+            {"transaction_id": "T0042", "transaction_type": "purchase", "transaction_amount": 170, "date": "2023-08-01"},
+            {"transaction_id": "T0043", "transaction_type": "purchase", "transaction_amount": 100, "date": "2023-08-20"},
+            {"transaction_id": "T0044", "transaction_type": "purchase", "transaction_amount": 260, "date": "2023-08-23"}
+        ]
+    }
+]

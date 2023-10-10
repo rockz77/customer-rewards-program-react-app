@@ -1,0 +1,10 @@
+.customer-container{
+    text-align: left;
+    padding: 20px;
+}
+
+.customer-container ul {
+    margin: -1rem 0 0 0;
+    padding: 0;
+    list-style: none;
+}
